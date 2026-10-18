@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I’m Sravanthi Chavutooru 👋
 
-<!--
-**sravanthichavutooru/sravanthichavutooru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Engineering | QA Automation
 
-Here are some ideas to get you started:
+I completed my master’s in Information Technology Management at Webster University. I enjoy working with data, testing applications, and finding the reasons behind problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background includes building data pipelines, validating data, automating tests, and working with teams to resolve issues.
+
+## Data Engineering
+- Python, SQL, and PySpark
+- Snowflake, dbt, and Apache Airflow
+- AWS S3, Glue, Lambda, and Redshift
+- ETL pipelines, incremental loads, and data quality checks
+- Power BI and Tableau
+
+## QA Automation
+- Selenium WebDriver with Java
+- Playwright with TypeScript
+- API testing with Postman and REST Assured
+- Functional, regression, and end-to-end testing
+- SQL validation and defect tracking with Jira
+- Git, GitHub Actions, and Jenkins
+
+## What I’m Building
+I’m building this portfolio to share projects in:
+- Data pipelines and SQL analysis
+- Automated data quality checks
+- Web application and API testing
+
+## About Me
+- Based in Frisco, Texas
+- Open to Data Engineering and QA Automation opportunities
+- Interested in reliable data and software quality
